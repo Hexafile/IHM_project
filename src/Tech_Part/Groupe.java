@@ -150,7 +150,6 @@ public class Groupe {
 							// TODO Auto-generated catch block
 							e.printStackTrace();
 						}
-
 					}
 					final String retT = data[3];
 
